@@ -1,0 +1,37 @@
+# Hack Club Macropad - code.py
+# Key 1 (D10): Snipping Tool (Win + Shift + S)
+# Key 2 (D9):  Open Google (via Run dialog)
+# Key 3 (D8):  Play/Pause Netflix (Spacebar)
+
+import board
+from kmk.kmk_keyboard import KMKKeyboard
+from kmk.keys import KC
+from kmk.modules.macros import Macros, Press, Release, Tap
+
+keyboard = KMKKeyboard()
+
+macros = Macros()
+keyboard.modules.append(macros)
+
+keyboard.direct_pins = [board.D10, board.D9, board.D8]
+keyboard.diode_orientation = None
+
+# Opens google.com using Win + R (Run dialog)
+open_google = KC.MACRO(
+    Press(KC.LGUI), Tap(KC.R), Release(KC.LGUI),
+    Tap(KC.G), Tap(KC.O), Tap(KC.O), Tap(KC.G), Tap(KC.L), Tap(KC.E),
+    Tap(KC.DOT),
+    Tap(KC.C), Tap(KC.O), Tap(KC.M),
+    Tap(KC.ENTER)
+)
+
+keyboard.keymap = [
+    [
+        KC.LGUI(KC.LSFT(KC.S)),  # Win + Shift + S = Snipping Tool
+        open_google,              # Opens google.com
+        KC.SPC,                   # Space = Play/Pause on Netflix
+    ]
+]
+
+if __name__ == '__main__':
+    keyboard.go()
