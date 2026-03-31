@@ -20,11 +20,11 @@ Top key: Snipping Tool
 Middle key: Open browser
 Bottom key: Play/Pause music
 
-## Step 4 — Push everything to GitHub
+### Full Hackpad
+![Full Hackpad](images/macropad.JPG)
 
-In your terminal:
-```
-cd Desktop\YOURREPONAME
-git add .
-git commit -m "added images to README"
-git push
+### Schematic
+![Schematic](images/schematic.JGP)
+
+### PCB
+![PCB](images/PCB.JGP)
