@@ -1,5 +1,4 @@
 # Hackclub-Macropad
-Hi if you are assessing this super early i really appreciate it but i realised i made a grave mistake and am changing it  ! could you wait till the due date to review it thank you so much
 This is a 3-key macropad built for Hack Club Hackpad
 
 Features
