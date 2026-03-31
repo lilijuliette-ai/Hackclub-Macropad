@@ -21,6 +21,7 @@ Middle key: Open browser
 Bottom key: Play/Pause music
 
 This is a photo of my potential finished hackpad
+![hackpad](https://github.com/user-attachments/assets/93806d2a-9626-4787-9a6f-800452882d2a)
 
 
 Here is a photo of a schematic
