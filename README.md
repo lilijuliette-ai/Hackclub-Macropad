@@ -19,3 +19,14 @@ Keymap
 Top key: Snipping Tool
 Middle key: Open browser
 Bottom key: Play/Pause music
+
+## Screenshots
+
+### Full Hackpad
+![Full Hackpad](images/macropad.jpg)
+
+### Schematic
+![Schematic](images/schematic.jpg)
+
+### PCB
+![PCB](images/PCB.jpg)
