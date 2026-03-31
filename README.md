@@ -19,3 +19,12 @@ Keymap
 Top key: Snipping Tool
 Middle key: Open browser
 Bottom key: Play/Pause music
+
+## Step 4 — Push everything to GitHub
+
+In your terminal:
+```
+cd Desktop\YOURREPONAME
+git add .
+git commit -m "added images to README"
+git push
