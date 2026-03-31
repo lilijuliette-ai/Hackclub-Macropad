@@ -12,7 +12,7 @@ Custom PCB (KiCad)
 3 mechanical switches
 Firmware
 
-Built using KMK Firmware.
+Built using KMK Firmware. My firmware is in my code.py folder so when I have built my hackpad I can use KMK firmware with this code
 
 Keymap
 
