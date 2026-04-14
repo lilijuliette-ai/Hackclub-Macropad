@@ -29,6 +29,8 @@ Here is a photo of a schematic
 
 Here is a photo of my PCB
 ![PCB](https://github.com/user-attachments/assets/0623c9c0-1a10-4dc5-b124-0c362162d389)
+<img width="741" height="484" alt="image" src="https://github.com/user-attachments/assets/077d1968-3a16-4db4-8f7a-9934f52f8b6e" />
+
 
 Here is a photo of my case image
 ![macropad](https://github.com/user-attachments/assets/4d2a4881-b244-4bb6-9351-3c9af1ab8c76)
