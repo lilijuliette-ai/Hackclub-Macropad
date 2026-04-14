@@ -28,7 +28,7 @@ Here is a photo of a schematic
 ![schematic](https://github.com/user-attachments/assets/665851ce-5fb4-47c1-ac46-58262eb9d851)
 
 Here is a photo of my PCB
-![PCB](https://github.com/user-attachments/assets/0623c9c0-1a10-4dc5-b124-0c362162d389)
+<img width="275" height="602" alt="image" src="https://github.com/user-attachments/assets/3c91823b-ad7b-424f-86ab-6b54d46c91b9" />
 <img width="741" height="484" alt="image" src="https://github.com/user-attachments/assets/077d1968-3a16-4db4-8f7a-9934f52f8b6e" />
 
 
